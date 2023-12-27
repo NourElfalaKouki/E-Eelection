@@ -30,7 +30,7 @@ Elle permet de gérer les nouvelles et anciennes élections, afficher les détai
 
 >9. **Fermer une Élection**
   >> - Les administrateurs peuvent fermer une élection, empêchant ainsi tout nouveau vote.
-## compte admin (nom:abc;prenom:abc;motdepasse:abc)
+## compte admin (nom: abc ;prenom: abc ;motdepasse: abc)
 
 
 ## Contact
